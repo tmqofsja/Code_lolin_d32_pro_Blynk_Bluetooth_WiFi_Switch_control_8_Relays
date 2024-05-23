@@ -72,7 +72,7 @@ RCSwitch mySwitch = RCSwitch(); //RF433
 #define SwitchPin9  0  //16  //D16 All ON OFF  (lolin_d32_pro 1 /lolin_d32 16)
 #define Rec_Int    39  //17  // D17 RF433 수신 pin  (lolin_d32_pro 3 /lolin_d32 17)
 #define wifiLed     2  //D2
-//#define IR_RECV_PIN 15  //D15 IR 수신 pin
+//#define IR_RECV_PIN 15  //D15 IR 수신 pin ===== board = lolin_d32_pro ==========
 //#define IR_RECEIVE_PIN 15  #include <PinDefinitionsAndMore.h> auto choise
 #define EEPROM_SIZE 9
 
